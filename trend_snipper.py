@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1szi4ULhNUJn-ZY98TQUQWfbRoyWXgQ0j
 """
 
-!pip install gradio pandas numpy plotly requests beautifulsoup4
+pip install gradio pandas numpy plotly requests beautifulsoup4
 
 """
 Universal Market Trend Sniper - Enhanced Multi-Layer Analysis
