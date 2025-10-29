@@ -15,7 +15,7 @@ Complete Frontend + Backend in Python with 6-Layer Intelligence System
 Run this in Google Colab!
 
 Installation:
-!pip install gradio pandas numpy plotly requests beautifulsoup4
+pip install gradio pandas numpy plotly requests beautifulsoup4
 """
 
 import gradio as gr
